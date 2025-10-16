@@ -1,0 +1,17 @@
+# Core Dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+pillow>=8.3.0
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+scikit-learn>=0.24.0
+scipy>=1.7.0
+
+# Quantum Computing
+qiskit>=0.45.0
+qiskit-aer>=0.13.0
+qiskit-machine-learning>=0.7.0
+
+# Development
+pytest>=7.0.0
+jupyter>=1.0.0
