@@ -1,8 +1,5 @@
 # Quantum-Enhanced-Medical-X-ray-Image-Processing
 
-"""
-# Quantum Medical Image Enhancement
-
 A hybrid classical-quantum framework for enhancing medical X-ray images using Qiskit and advanced image processing techniques.
 
 ## Overview
