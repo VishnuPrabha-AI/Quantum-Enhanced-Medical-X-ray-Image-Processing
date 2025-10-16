@@ -2,11 +2,10 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.classical.processor import XRayProcessor
-from src.quantum.enhancer import QuantumMedicalImageEnhancer
-from src.hybrid.enhancer import HybridQuantumEnhancer
-from src.analysis.batch_processor import BatchQuantumProcessor
-from src.visualization.dashboard import ComprehensiveVisualization
+from processor import XRayProcessor
+from enhancer import QuantumMedicalImageEnhancer, HybridQuantumEnhancer
+from batch_processor import BatchQuantumProcessor
+from dashboard import ComprehensiveVisualization
 
 
 def run_complete_quantum_project():
