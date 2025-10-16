@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="quantum-medical-enhancement",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Vishnu Prabha",
+    author_email="vishnuprabhakrishnakumar@gmail.com",
     description="Quantum computing for medical image enhancement",
     long_description=long_description,
     long_description_content_type="text/markdown",
